@@ -1,6 +1,8 @@
 <h1>Amatarou-SUN Group<h1>
 リーダー : Amatarou-SUN<br />
-私たちは、集団でプログラミングをしたり、プロジェクトを遂行するグループです。
+<br />
+私たちは、集団で<br />
+プログラミング・プロジェクトを遂行するグループです。<br />
 
 <!---
 Amatarou-SUN-Group/Amatarou-SUN-Group is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
