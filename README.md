@@ -1,5 +1,5 @@
 <h1>Amatarou-SUN Group<h1>
-リーダー : Amatarou-SUN
+リーダー : Amatarou-SUN<br />
 私たちは、集団でプログラミングをしたり、プロジェクトを遂行するグループです。
 
 <!---
